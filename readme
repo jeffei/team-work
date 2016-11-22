@@ -4,7 +4,9 @@ I sent this info from Windows Git
 
 I sent a new feature from branch feature-0.1
 I sent a aaaaaaaaaaa new from feature-nx
+modify global config
 I sent a aaaaaaaaaaa new from feature-wx
 
 I come from node2
 git config --global credential.helper store
+Add some files:
