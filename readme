@@ -13,4 +13,5 @@ Add some files:
 Test ssh
 from node2 with no pass
 from node1 with no pass
+It is all OK
 
