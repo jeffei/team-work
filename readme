@@ -11,3 +11,4 @@ I come from node2
 git config --global credential.helper store
 Add some files:
 Test ssh
+from node2 with no pass
